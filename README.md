@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Keshav Jaiswal and I'm a Btech IT Student, from JMIT</h2>
+<h2 align="left">Hi 👋! My name is Keshav Jaiswal</h2>
 
 ###
 
