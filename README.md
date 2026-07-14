@@ -26,6 +26,7 @@
 <td>
 
 ```
+                      _____                     
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;++;+;;;;::::::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -80,6 +81,16 @@
 &&&&&&Xx&&&&&&&&&&&&&&&&x+;+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&X+&&&&&&&&&&&&&&&$x++X&&&&&&&&&&&$x++X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&X+&&&&&&&&&&&&&&Xxx+X$&&&&&&$xxxxxX&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+```
+
+</td>
+<td valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=900&color=00C7B7&center=false&vCenter=true&width=500&height=260&lines=%24+whoami;Keshav+Jaiswal;OS%3A+Linux+(btw)+%F0%9F%98%8F;Role%3A+Full-Stack+Developer;Interning%3A+CyberEthic+%2B+ZeroCarbon;Leading%3A+ECSoC+(Program+Manager);Shell%3A+Striver's+A2Z+DSA+Sheet;Status%3A+Always+shipping+something" />
+
+</td>
+</tr>
+</table>
 
 ---
 
