@@ -1,46 +1,69 @@
-<svg width="847" height="538" viewBox="0 0 847 538" xmlns="http://www.w3.org/2000/svg">
-<rect width="847" height="538" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<svg width="850" height="540" viewBox="0 0 850 540" xmlns="http://www.w3.org/2000/svg">
+<rect width="850" height="540" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 <style>text { font-family: "Fira Code","Cascadia Code",Consolas,monospace; font-size: 13px; }</style>
-<text x="30" y="40" fill="#39d353" xml:space="preserve">                      _____                     </text>
-<text x="30" y="58" fill="#39d353" xml:space="preserve">                 _yg@@@@@@@@@g_                 </text>
-<text x="30" y="76" fill="#39d353" xml:space="preserve">               _g@@@@@@@@@@@@@@$_               </text>
-<text x="30" y="94" fill="#39d353" xml:space="preserve">              y@@@@@@@@@@@@@@@@@@               </text>
-<text x="30" y="112" fill="#39d353" xml:space="preserve">              @@@@@@@@@@@@@@@@@@@L              </text>
-<text x="30" y="130" fill="#39d353" xml:space="preserve">             &quot;@@@@@@@@@@@@@@@@@@@@              </text>
-<text x="30" y="148" fill="#39d353" xml:space="preserve">              ~@@@@@@@@@@@@@@@@@@@              </text>
-<text x="30" y="166" fill="#39d353" xml:space="preserve">               ~@@@@@@@@@@@@@@@@@               </text>
-<text x="30" y="184" fill="#39d353" xml:space="preserve">                `@@@@@@@@@@@@@@@@               </text>
-<text x="30" y="202" fill="#39d353" xml:space="preserve">                  ~@@@@@@@@@@@@@F               </text>
-<text x="30" y="220" fill="#39d353" xml:space="preserve">                  _g@@@@@@@@@@@F                </text>
-<text x="30" y="238" fill="#39d353" xml:space="preserve">                 a@@@@@@@@@@@@_                 </text>
-<text x="30" y="256" fill="#39d353" xml:space="preserve">                &lt;T#@@@@@@@@@@@@g                </text>
-<text x="30" y="274" fill="#39d353" xml:space="preserve">            .  ^.`.&#x27;~@@@@@@@@@@@y_              </text>
-<text x="30" y="292" fill="#39d353" xml:space="preserve">      .      : _. ya@@@@@@@@@@@@@@@gy_.         </text>
-<text x="30" y="310" fill="#39d353" xml:space="preserve">    ,@$  y   `i&quot;#a@@@@@@@E~~@@@@@@$$@$y._       </text>
-<text x="30" y="328" fill="#39d353" xml:space="preserve">   _@@7Y_`gy$^Y.&#x27;VT~F#ayZ@$a@@@@@@@5?@@($i      </text>
-<text x="30" y="346" fill="#39d353" xml:space="preserve">   @@#g70gQEV JVi`V~jqyv57@$@@B$$$@W\@Rn$M      </text>
-<text x="30" y="364" fill="#39d353" xml:space="preserve">  j$0Ty@&#x27;@@$@ .]nV.i:&#x27;RJvg$F~B@@@@~} gZl@@l     </text>
-<text x="30" y="382" fill="#39d353" xml:space="preserve">  @@$Ayf$g@@@_y@l1nV7I!&#x27;qB@Ti$lt1@?wm@$g@@g     </text>
-<text x="30" y="400" fill="#39d353" xml:space="preserve"> J@$@@JB@$@@$@6jnVl)g@wJ@g@]]WkJHW#Lg@@@@$@     </text>
-<text x="30" y="418" fill="#39d353" xml:space="preserve"> a@@h0@W@B@@@@A@l1qg@@Kg@@y@$N#$lWm4B@@@@@@l    </text>
-<text x="30" y="436" fill="#39d353" xml:space="preserve"> @@@y?$Tg@@@@@$@nVg@@yg@@@@Eyg$g@$zg@@@@@@$$    </text>
-<text x="30" y="454" fill="#39d353" xml:space="preserve">j@D2T$&quot;@B@@@@@@@g@$@@@@@@@@@@@@@y$$$@@@@@@W@y   </text>
-<text x="30" y="472" fill="#39d353" xml:space="preserve">$@+_Ly@@$@@@@@@@$@@@@@@@@@@@@Fg@@@@@@@@@@@@@$   </text>
-<text x="30" y="490" fill="#39d353" xml:space="preserve">@%M~_ywg@@@@@@@@@@@@@@@@@@@@W#A$@@@@@@@@@g@@$   </text>
-<text x="454.4" y="40" fill="#58a6ff" font-weight="bold">keshav@Keshav1605</text>
-<text x="454.4" y="58" fill="#8b949e">-----------------</text>
-<text x="454.4" y="76"><tspan fill="#79c0ff">Role:</tspan><tspan fill="#c9d1d9" dx="6">Full-Stack Developer</tspan></text>
-<text x="454.4" y="94"><tspan fill="#79c0ff">College:</tspan><tspan fill="#c9d1d9" dx="6">JMIT, IT Undergrad &#x27;27</tspan></text>
-<text x="454.4" y="112"><tspan fill="#79c0ff">Status:</tspan><tspan fill="#c9d1d9" dx="6">Interning @ CyberEthic + ZeroCarbon</tspan></text>
-<text x="454.4" y="130"><tspan fill="#79c0ff">Leading:</tspan><tspan fill="#c9d1d9" dx="6">ECSoC (Program Manager)</tspan></text>
-<text x="454.4" y="148"><tspan fill="#79c0ff">Completed:</tspan><tspan fill="#c9d1d9" dx="6">ECWoC (Program Manager, Mar 2026)</tspan></text>
-<text x="454.4" y="166"><tspan fill="#79c0ff">Building:</tspan><tspan fill="#c9d1d9" dx="6">Vector Vyuh</tspan></text>
-<text x="454.4" y="184"><tspan fill="#79c0ff">Grinding:</tspan><tspan fill="#c9d1d9" dx="6">Striver&#x27;s A2Z DSA Sheet</tspan></text>
-<text x="454.4" y="220"><tspan fill="#79c0ff">Languages:</tspan><tspan fill="#c9d1d9" dx="6">C, C++, Python, JS, PHP, Java</tspan></text>
-<text x="454.4" y="238"><tspan fill="#79c0ff">Stack:</tspan><tspan fill="#c9d1d9" dx="6">React, Next.js, Node, MySQL, Supabase</tspan></text>
-<text x="454.4" y="274" fill="#f0883e" font-weight="bold">Contact</text>
-<text x="454.4" y="292"><tspan fill="#79c0ff">LinkedIn:</tspan><tspan fill="#c9d1d9" dx="6">keshav-jaiswal16</tspan></text>
-<text x="454.4" y="310"><tspan fill="#79c0ff">Email:</tspan><tspan fill="#c9d1d9" dx="6">keshavjais1605@gmail.com</tspan></text>
-<text x="454.4" y="346" fill="#f0883e" font-weight="bold">GitHub Stats</text>
-<text x="454.4" y="364"><tspan fill="#79c0ff">Repos:</tspan><tspan fill="#c9d1d9" dx="6">13   Followers: 21   Stars: 4</tspan></text>
+
+<g fill="#39d353" xml:space="preserve">
+<text x="25" y="35">;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="49">;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="63">;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;++;+;;;;::::::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="77">;;;;;;;;;;;;;;;;;;;;;:.:::::::::;;;:;:;::::::.::;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="91">;;;;;;;;;;;;;;;;;;;...::...::....:::.:;:......::;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="105">;;;;;;;;;;;;;;;;;:.............;;:::.:...:::....:::;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="119">;;;;;;;;;;;;;;;;:...........::::;:;;:::.......::.::::;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="133">;;;;;;;;;;;;;;;;:............;;;;;;:....::::::::.::.::;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="147">;;;;;;;;;;;;;;::.........:.:;;+XXxx+;;;;;;;;;;:::::.:;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="161">;;;;;;;;;;;;;;.............;+$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$X++x+;;;;;;;..:;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="175">;;;;;;;;;;;;;.............:;x&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$x+;;.:;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="189">;;;;;;;;;;;;:..............;+X&amp;&amp;&amp;&amp;&amp;X+;;;;++xXX+;;;;+;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="203">;;;;;;;;;;;;;:............:;+$$$X++xxxx;;;+x&amp;$;+xxx++;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="217">;;;;;;;;;;;;;:...........::+X$X;++x++++;;+++XX++$x;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="231">;;;;;;;;;;;;;;...........::;+XXx;;;;xXXx+x+;&amp;&amp;;++xx$;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="245">;:::::;;;;;;;;....:;;:...:;x$$&amp;&amp;&amp;&amp;X$$$$$&amp;&amp;XX&amp;&amp;&amp;&amp;&amp;$&amp;&amp;&amp;&amp;&amp;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="259">...::::::::::::..:;;;+XX+:;x$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="273">.............:::.;;x&amp;X;;X+;+XX$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;+$&amp;X;x&amp;&amp;x&amp;&amp;&amp;&amp;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="287">.................:+xX;;X&amp;X;;+xX$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;x+++++$$&amp;&amp;$;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="301">..................:XX+XXXX+;;+xX$$$&amp;&amp;&amp;x+x$X$$XXX+;x&amp;X;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="315">....................+XxXXXx;;;xX$$X$$$;;;;+&amp;&amp;&amp;&amp;&amp;x;;;X+;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="329">......................$&amp;&amp;x;+;;;xXXXXX$XX$XX$&amp;$XXXXXXX;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="343">........................;;;+;;;++xXxxXX$&amp;&amp;&amp;x;;;XXxX;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="357">.........................;;;;;;;;;+++++X$&amp;&amp;&amp;&amp;&amp;X$Xx++;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="371">.........................;+++;;;;;;;;;;;+xXxxxx+;;;:;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="385">......................:;;;xXXx+;;;;;;;;;;;;;;;;;;;:;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="399">....................x++;++xXXXx++;;;;;;;;::::...::;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="413">...................X&amp;&amp;+;++xX$XXXxxx++;;;;;;;;++xx;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="427">..................&amp;&amp;&amp;&amp;&amp;xxxx$$$$XXXXxxx+++++++xx;;$;;;;;;;;;;::::;;;;;;;;;;;</text>
+<text x="25" y="441">.................&amp;&amp;&amp;&amp;&amp;&amp;&amp;x+xX$$$$$$$XXxxxxxxxxx+;;x&amp;x;;;;;;;;........;;;;;;;</text>
+<text x="25" y="455">...........:X&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;xXX$$$$$$$XXXXXXXXXx+;;X&amp;&amp;x;;;;;;;;;:....;+;;;;;;</text>
+<text x="25" y="469">......:x&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;xXXXXXX$$XXXXXxxXx++:x$&amp;&amp;&amp;&amp;x;;;;;;;;;;;;;;;x+;;;</text>
+<text x="25" y="483">..:&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;XxxxxXX$XXXXXxx++;:$&amp;&amp;&amp;&amp;$&amp;&amp;&amp;&amp;X;;;;;;;;;;;;;;x;</text>
+<text x="25" y="497">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$&amp;&amp;XxxxXXXXxxxx+++;+&amp;&amp;&amp;&amp;&amp;&amp;X&amp;&amp;&amp;&amp;&amp;&amp;&amp;+;;;;;;;;;;;;</text>
+<text x="25" y="511">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X++x$&amp;+;&amp;&amp;$XXXxxxx++x+&amp;&amp;&amp;X+xx&amp;&amp;$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;;;;;;;;;;</text>
+</g>
+
+<text x="630" y="60" fill="#58a6ff" font-weight="bold">keshav@Keshav1605</text>
+<text x="630" y="75" fill="#8b949e">-----------------</text>
+<text x="630" y="95"><tspan fill="#79c0ff">Role:</tspan><tspan fill="#c9d1d9" dx="6">Full-Stack Developer</tspan></text>
+<text x="630" y="115"><tspan fill="#79c0ff">College:</tspan><tspan fill="#c9d1d9" dx="6">JMIT, IT Undergrad '27</tspan></text>
+<text x="630" y="135"><tspan fill="#79c0ff">Status:</tspan><tspan fill="#c9d1d9" dx="6">Interning @ CyberEthic</tspan></text>
+<text x="630" y="150"><tspan fill="#79c0ff"></tspan><tspan fill="#c9d1d9" dx="52">+ ZeroCarbon</tspan></text> 
+<text x="630" y="170"><tspan fill="#79c0ff">Leading:</tspan><tspan fill="#c9d1d9" dx="6">ECSoC (Prog Manager)</tspan></text>
+<text x="630" y="190"><tspan fill="#79c0ff">Completed:</tspan><tspan fill="#c9d1d9" dx="6">ECWoC (Mar 2026)</tspan></text>
+<text x="630" y="210"><tspan fill="#79c0ff">Building:</tspan><tspan fill="#c9d1d9" dx="6">Vector Vyuh</tspan></text>
+<text x="630" y="230"><tspan fill="#79c0ff">Grinding:</tspan><tspan fill="#c9d1d9" dx="6">Striver's A2Z DSA</tspan></text>
+
+<text x="630" y="265" fill="#f0883e" font-weight="bold">Skills &amp; Tech</text>
+<text x="630" y="280" fill="#8b949e">-------------</text>
+<text x="630" y="300"><tspan fill="#79c0ff">Languages:</tspan><tspan fill="#c9d1d9" dx="6">C, C++, Python, JS</tspan></text>
+<text x="630" y="315"><tspan fill="#79c0ff"></tspan><tspan fill="#c9d1d9" dx="82">PHP, Java</tspan></text>
+<text x="630" y="335"><tspan fill="#79c0ff">Stack:</tspan><tspan fill="#c9d1d9" dx="6">React, Next.js, Node</tspan></text>
+<text x="630" y="350"><tspan fill="#79c0ff"></tspan><tspan fill="#c9d1d9" dx="46">MySQL, Supabase</tspan></text>
+
+<text x="630" y="385" fill="#f0883e" font-weight="bold">GitHub Stats</text>
+<text x="630" y="400" fill="#8b949e">------------</text>
+<text x="630" y="420"><tspan fill="#79c0ff">Repos:</tspan><tspan fill="#c9d1d9" dx="6">13</tspan></text>
+<text x="630" y="440"><tspan fill="#79c0ff">Followers:</tspan><tspan fill="#c9d1d9" dx="6">21</tspan></text>
+<text x="630" y="460"><tspan fill="#79c0ff">Stars:</tspan><tspan fill="#c9d1d9" dx="6">4</tspan></text>
+
+<text x="630" y="495" fill="#f0883e" font-weight="bold">Contact</text>
+<text x="630" y="510"><tspan fill="#c9d1d9">keshav-jaiswal16 (In)</tspan></text>
 </svg>
