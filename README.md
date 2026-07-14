@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:6144FE&height=220&section=header&text=Keshav%20Jaiswal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Security-minded%20Builder&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=IT+Undergrad+%40+JMIT+%2727;Full-Stack+Dev+%7C+PHP+%2B+React+%2B+Node;Program+Manager+%40+ECSoC+(Elite+Coders);Interning+%40+CyberEthic+%2B+ZeroCarbon;Grinding+Striver's+A2Z+DSA+Sheet+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=IT+Undergrad+%40+JMIT+%2727;Full-Stack+Dev;Program+Manager+%40+ECSoC+(Elite+Coders);Interning+%40+CyberEthic+%2B+ZeroCarbon;Grinding+Striver's+SDE+DSA+Sheet+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -69,23 +69,6 @@ When I'm not shipping code, I'm either mentoring open-source contributors throug
 </p>
 
 > ⚙️ **Setup note (one-time):** this snake auto-animates from your contribution graph, but needs a tiny GitHub Action to generate it — see the workflow file at the bottom of this file, drop it in `.github/workflows/snake.yml` in your `Keshav1605/Keshav1605` repo and it'll self-update daily.
-
----
-
-### 📌 Pinned Work
-
-<table>
-<tr>
-<td width="50%">
-<h4>🛰️ AstroGuard</h4>
-Interactive tool built in HTML/JS/CSS
-</td>
-<td width="50%">
-<h4>💰 Revenue-Rescue</h4>
-TypeScript project
-</td>
-</tr>
-</table>
 
 ---
 
