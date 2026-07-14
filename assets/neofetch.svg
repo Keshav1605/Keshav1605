@@ -3,58 +3,58 @@
 <style>text { font-family: "Fira Code","Cascadia Code",Consolas,monospace; font-size: 13px; }</style>
 
 <g fill="#39d353" xml:space="preserve">
-<text x="25" y="35">;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="49">;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="63">;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;++;+;;;;::::::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="77">;;;;;;;;;;;;;;;;;;;;;:.:::::::::;;;:;:;::::::.::;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="91">;;;;;;;;;;;;;;;;;;;...::...::....:::.:;:......::;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="105">;;;;;;;;;;;;;;;;;:.............;;:::.:...:::....:::;;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="119">;;;;;;;;;;;;;;;;:...........::::;:;;:::.......::.::::;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="133">;;;;;;;;;;;;;;;;:............;;;;;;:....::::::::.::.::;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="147">;;;;;;;;;;;;;;::.........:.:;;+XXxx+;;;;;;;;;;:::::.:;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="161">;;;;;;;;;;;;;;.............;+$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$X++x+;;;;;;;..:;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="175">;;;;;;;;;;;;;.............:;x&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$x+;;.:;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="189">;;;;;;;;;;;;:..............;+X&amp;&amp;&amp;&amp;&amp;X+;;;;++xXX+;;;;+;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="203">;;;;;;;;;;;;;:............:;+$$$X++xxxx;;;+x&amp;$;+xxx++;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="217">;;;;;;;;;;;;;:...........::+X$X;++x++++;;+++XX++$x;;;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="231">;;;;;;;;;;;;;;...........::;+XXx;;;;xXXx+x+;&amp;&amp;;++xx$;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="245">;:::::;;;;;;;;....:;;:...:;x$$&amp;&amp;&amp;&amp;X$$$$$&amp;&amp;XX&amp;&amp;&amp;&amp;&amp;$&amp;&amp;&amp;&amp;&amp;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="259">...::::::::::::..:;;;+XX+:;x$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="273">.............:::.;;x&amp;X;;X+;+XX$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;+$&amp;X;x&amp;&amp;x&amp;&amp;&amp;&amp;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="287">.................:+xX;;X&amp;X;;+xX$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;x+++++$$&amp;&amp;$;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="301">..................:XX+XXXX+;;+xX$$$&amp;&amp;&amp;x+x$X$$XXX+;x&amp;X;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="315">....................+XxXXXx;;;xX$$X$$$;;;;+&amp;&amp;&amp;&amp;&amp;x;;;X+;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="329">......................$&amp;&amp;x;+;;;xXXXXX$XX$XX$&amp;$XXXXXXX;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="343">........................;;;+;;;++xXxxXX$&amp;&amp;&amp;x;;;XXxX;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="357">.........................;;;;;;;;;+++++X$&amp;&amp;&amp;&amp;&amp;X$Xx++;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="371">.........................;+++;;;;;;;;;;;+xXxxxx+;;;:;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="385">......................:;;;xXXx+;;;;;;;;;;;;;;;;;;;:;;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="399">....................x++;++xXXXx++;;;;;;;;::::...::;;;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="413">...................X&amp;&amp;+;++xX$XXXxxx++;;;;;;;;++xx;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
-<text x="25" y="427">..................&amp;&amp;&amp;&amp;&amp;xxxx$$$$XXXXxxx+++++++xx;;$;;;;;;;;;;::::;;;;;;;;;;;</text>
-<text x="25" y="441">.................&amp;&amp;&amp;&amp;&amp;&amp;&amp;x+xX$$$$$$$XXxxxxxxxxx+;;x&amp;x;;;;;;;;........;;;;;;;</text>
-<text x="25" y="455">...........:X&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;xXX$$$$$$$XXXXXXXXXx+;;X&amp;&amp;x;;;;;;;;;:....;+;;;;;;</text>
-<text x="25" y="469">......:x&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;xXXXXXX$$XXXXXxxXx++:x$&amp;&amp;&amp;&amp;x;;;;;;;;;;;;;;;x+;;;</text>
-<text x="25" y="483">..:&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;XxxxxXX$XXXXXxx++;:$&amp;&amp;&amp;&amp;$&amp;&amp;&amp;&amp;X;;;;;;;;;;;;;;x;</text>
-<text x="25" y="497">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$&amp;&amp;XxxxXXXXxxxx+++;+&amp;&amp;&amp;&amp;&amp;&amp;X&amp;&amp;&amp;&amp;&amp;&amp;&amp;+;;;;;;;;;;;;</text>
-<text x="25" y="511">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X++x$&amp;+;&amp;&amp;$XXXxxxx++x+&amp;&amp;&amp;X+xx&amp;&amp;$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;;;;;;;;;;</text>
+<text x="25" y="35">;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="49">;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="63">;;;;;;;;;;;;;;;;;;;;;;;;;;+;++;+;;;;::::::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="77">;;;;;;;;;;;;;;;;;;;:.:::::::::;;;:;:;::::::.::;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="91">;;;;;;;;;;;;;;;;;...::...::....:::.:;:......::;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="105">;;;;;;;;;;;;;;;:.............;;:::.:...:::....:::;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="119">;;;;;;;;;;;;;;:...........::::;:;;:::.......::.::::;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="133">;;;;;;;;;;;;;;:............;;;;;;:....::::::::.::.::;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="147">;;;;;;;;;;;;::.........:.:;;+XXxx+;;;;;;;;;;:::::.:;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="161">;;;;;;;;;;;;.............;+$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$X++x+;;;;;;;..:;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="175">;;;;;;;;;;;.............:;x&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$x+;;.:;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="189">;;;;;;;;;;:..............;+X&amp;&amp;&amp;&amp;&amp;X+;;;;++xXX+;;+;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="203">;;;;;;;;;;;:............:;+$$$X++xxxx;;;+x&amp;$;+xxx++;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="217">;;;;;;;;;;;:...........::+X$X;++x++++;;+++XX++$x;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="231">;;;;;;;;;;;;...........::;+XXx;;;;xXXx+x+;&amp;&amp;;++xx$;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="245">::::;;;;;;;;....:;;:...:;x$$&amp;&amp;&amp;&amp;X$$$$$&amp;&amp;XX&amp;&amp;&amp;&amp;&amp;$&amp;&amp;&amp;&amp;&amp;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="259">.::::::::::::..:;;;+XX+:;x$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="273">...........:::.;;x&amp;X;;X+;+XX$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;+$&amp;X;x&amp;&amp;x&amp;&amp;&amp;&amp;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="287">...............:+xX;;X&amp;X;;+xX$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;x+++++$$&amp;&amp;$;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="301">................:XX+XXXX+;;+xX$$$&amp;&amp;&amp;x+x$X$$XXX+;x&amp;X;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="315">..................+XxXXXx;;;xX$$X$$$;;;;+&amp;&amp;&amp;&amp;&amp;x;;;X+;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="329">....................$&amp;&amp;x;+;;;xXXXXX$XX$XX$&amp;$XXXXXXX;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="343">......................;;;+;;;++xXxxXX$&amp;&amp;&amp;x;;;XXxX;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="357">.......................;;;;;;;;;+++++X$&amp;&amp;&amp;&amp;&amp;X$Xx++;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="371">.......................;+++;;;;;;;;;;;+xXxxxx+;;;:;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="385">....................:;;;xXXx+;;;;;;;;;;;;;;;;;;;:;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="399">..................x++;++xXXXx++;;;;;;;;::::...::;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="413">.................X&amp;&amp;+;++xX$XXXxxx++;;;;;;;;++xx;;;;;;;;;;;;;;;;;;;;;;;;</text>
+<text x="25" y="427">................&amp;&amp;&amp;&amp;&amp;xxxx$$$$XXXXxxx+++++++xx;;$;;;;;;;;;;::::;;;;;;;;;</text>
+<text x="25" y="441">...............&amp;&amp;&amp;&amp;&amp;&amp;&amp;x+xX$$$$$$$XXxxxxxxxxx+;;x&amp;x;;;;;;........;;;;;;;</text>
+<text x="25" y="455">.........:X&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;xXX$$$$$$$XXXXXXXXXx+;;X&amp;&amp;x;;;;;;;:....;+;;;;;;</text>
+<text x="25" y="469">....:x&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;xXXXXXX$$XXXXXxxXx++:x$&amp;&amp;&amp;&amp;x;;;;;;;;;;;;;x+;;;</text>
+<text x="25" y="483">:&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;XxxxxXX$XXXXXxx++;:$&amp;&amp;&amp;&amp;$&amp;&amp;&amp;&amp;X;;;;;;;;;;x;</text>
+<text x="25" y="497">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$&amp;&amp;XxxxXXXXxxxx+++;+&amp;&amp;&amp;&amp;&amp;&amp;X&amp;&amp;&amp;&amp;&amp;&amp;&amp;+;;;;;;;;</text>
+<text x="25" y="511">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X++x$&amp;+;&amp;&amp;$XXXxxxx++x+&amp;&amp;&amp;X+xx&amp;&amp;$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;;;;;;</text>
 </g>
 
 <text x="630" y="60" fill="#58a6ff" font-weight="bold">keshav@Keshav1605</text>
 <text x="630" y="75" fill="#8b949e">-----------------</text>
-<text x="630" y="95"><tspan fill="#79c0ff">Role:</tspan><tspan fill="#c9d1d9" dx="6">Full-Stack Developer</tspan></text>
 <text x="630" y="115"><tspan fill="#79c0ff">College:</tspan><tspan fill="#c9d1d9" dx="6">JMIT, IT Undergrad '27</tspan></text>
-<text x="630" y="135"><tspan fill="#79c0ff">Status:</tspan><tspan fill="#c9d1d9" dx="6">Interning @ CyberEthic</tspan></text>
-<text x="630" y="150"><tspan fill="#79c0ff"></tspan><tspan fill="#c9d1d9" dx="52">+ ZeroCarbon</tspan></text> 
+<text x="630" y="95"><tspan fill="#79c0ff">Role:</tspan><tspan fill="#c9d1d9" dx="6">Full-Stack Developer</tspan></text>
 <text x="630" y="170"><tspan fill="#79c0ff">Leading:</tspan><tspan fill="#c9d1d9" dx="6">ECSoC (Prog Manager)</tspan></text>
+<text x="630" y="150"><tspan fill="#79c0ff"></tspan><tspan fill="#c9d1d9" dx="52">+ ZeroCarbon</tspan></text> 
+<text x="630" y="135"><tspan fill="#79c0ff">Status:</tspan><tspan fill="#c9d1d9" dx="6">Interning @ CyberEthic</tspan></text>
 <text x="630" y="190"><tspan fill="#79c0ff">Completed:</tspan><tspan fill="#c9d1d9" dx="6">ECWoC (Mar 2026)</tspan></text>
-<text x="630" y="210"><tspan fill="#79c0ff">Building:</tspan><tspan fill="#c9d1d9" dx="6">Vector Vyuh</tspan></text>
-<text x="630" y="230"><tspan fill="#79c0ff">Grinding:</tspan><tspan fill="#c9d1d9" dx="6">Striver's A2Z DSA</tspan></text>
+<!-- <text x="630" y="210"><tspan fill="#79c0ff">Building:</tspan><tspan fill="#c9d1d9" dx="6">Vector Vyuh</tspan></text> -->
+<text x="630" y="230"><tspan fill="#79c0ff">Grinding:</tspan><tspan fill="#c9d1d9" dx="6">Striver's SDE DSA</tspan></text>
 
 <text x="630" y="265" fill="#f0883e" font-weight="bold">Skills &amp; Tech</text>
 <text x="630" y="280" fill="#8b949e">-------------</text>
-<text x="630" y="300"><tspan fill="#79c0ff">Languages:</tspan><tspan fill="#c9d1d9" dx="6">C, C++, Python, JS</tspan></text>
-<text x="630" y="315"><tspan fill="#79c0ff"></tspan><tspan fill="#c9d1d9" dx="82">PHP, Java</tspan></text>
+<text x="630" y="300"><tspan fill="#79c0ff">Languages:</tspan><tspan fill="#c9d1d9" dx="6">C, C++, Java, JS</tspan></text>
+<text x="630" y="315"><tspan fill="#79c0ff"></tspan><tspan fill="#c9d1d9" dx="82">Prompt Engineering</tspan></text>
 <text x="630" y="335"><tspan fill="#79c0ff">Stack:</tspan><tspan fill="#c9d1d9" dx="6">React, Next.js, Node</tspan></text>
 <text x="630" y="350"><tspan fill="#79c0ff"></tspan><tspan fill="#c9d1d9" dx="46">MySQL, Supabase</tspan></text>
 
